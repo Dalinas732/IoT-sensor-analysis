@@ -39,7 +39,9 @@ Key challenges addressed in the analysis included:
 
 - **Notebooks** — Complete exploratory analysis and metric construction  
 - **Slides** — Executive summaries for stakeholders  
-- **Dashboard Prototype** — Visual analytics for comparing occupancy across spaces and buildings  
+- **Dashboard Prototype** — Visual analytics for comparing occupancy across spaces and buildings
+- <img width="1237" height="704" alt="image" src="https://github.com/user-attachments/assets/5ef29206-986f-4600-971a-18d191b64899" />
+
 
 ---
 
